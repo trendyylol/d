@@ -1,0 +1,3 @@
+return {
+	Health = game:GetService("Players")[ListValue].Character:WaitForChild("Humanoid").Health
+}
